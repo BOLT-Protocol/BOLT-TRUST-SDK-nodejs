@@ -1,0 +1,24 @@
+{
+  "name": "bolttrust",
+  "version": "0.1.0",
+  "description": "BOLT-TRUST service development kit",
+  "main": "index.js",
+  "scripts": {
+    "test": "bin/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BOLT-Protocol/BOLT-TRUST-SDK-nodejs.git"
+  },
+  "keywords": [
+    "BOLTCHAIN",
+    "BOLT-TRUST",
+    "blockchain"
+  ],
+  "author": "BOLTCHAIN",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BOLT-Protocol/BOLT-TRUST-SDK-nodejs/issues"
+  },
+  "homepage": "https://github.com/BOLT-Protocol/BOLT-TRUST-SDK-nodejs#readme"
+}
